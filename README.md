@@ -1,1 +1,1 @@
-# fizzbuzz-js
+# FizzBuzz in JS
